@@ -8,4 +8,10 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I paint until I forget time exists. I think about brains as worlds—how neurons connect like people in a city, how communication emerges from networks.
+
+I worked with graph theory before, but now I'm asking different questions: if the brain is a world, how do its inhabitants really talk to each other?
+
+I'm a student, a painter, someone who writes haiku about sky life. I'm preparing to apply for a PhD because I want to understand connection—in neural networks, in human networks, in the three hours I stand at a canvas and don't notice passing.
+
+This site is where all of that lives.
