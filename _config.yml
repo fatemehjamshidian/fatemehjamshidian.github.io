@@ -1,7 +1,7 @@
 # site settings
 title: Fatemeh Jamshidian
 subtitle: Networks, Paint, and Questions!
-email: youremailaddress@gmail.com
+email: fjamshidian00@gmail.com
 description: A corner for brain networks, <br /> images that speak and <br />thoughts wander between science and art. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url:"https://fatemehjamshidian.github.io" # the base hostname & protocol for your site
