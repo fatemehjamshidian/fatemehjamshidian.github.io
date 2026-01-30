@@ -4,7 +4,7 @@ subtitle: Networks, Paint, and Questions!
 email: 
 description: A corner for brain networks, <br /> images that speak and <br />thoughts wander between science and art. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url:"https://fatemehjamshidian.github.io" # the base hostname & protocol for your site
+url: "https://fatemehjamshidian.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
