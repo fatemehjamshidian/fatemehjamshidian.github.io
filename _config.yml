@@ -1,7 +1,7 @@
 # site settings
 title: Fatemeh Jamshidian
 subtitle: Networks, Paint, and Questions!
-email: 
+email: "fjamshidian00@gmail.com"
 description: A corner for brain networks, <br /> images that speak and <br />thoughts wander between science and art. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fatemehjamshidian.github.io" # the base hostname & protocol for your site
@@ -16,14 +16,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
+  GitHub: https://github.com/fatemehjamshidian
+  #GitLab:
+  #Google-Plus:
+ # Instagram:
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+ Bluesky: https://bluesky.com/jamshidian
+ # Facebook:
+ # Slack:
 
 # build settings
 markdown: kramdown
