@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Paintings, photography, visual work<br />with stories about the processed'
 image: assets/images/2024.jpg
 nav-menu: true
 ---
