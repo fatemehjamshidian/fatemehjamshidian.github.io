@@ -1,6 +1,6 @@
 ---
-title: Creations
 layout: page
+title: Creations
 description: 'Paintings, photography, visual work<br />with stories about the processed'
 image: assets/images/2024_v2.jpg
 nav-menu: true
