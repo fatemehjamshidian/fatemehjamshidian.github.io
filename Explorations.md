@@ -1,6 +1,6 @@
 ---
 title: Explorations
-layout: landing
+layout: page
 description: 'Brain-as-world ideas &  sky life thoughts'
 image: assets/images/2018_v2.jpg
 nav-menu: true
