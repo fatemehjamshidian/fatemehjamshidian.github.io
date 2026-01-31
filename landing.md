@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'Paintings, photography, visual work<br />with stories about the processed'
-image: assets/images/2024.jpg
+image: assets/images/2024_v2.jpg
 nav-menu: true
 ---
 
