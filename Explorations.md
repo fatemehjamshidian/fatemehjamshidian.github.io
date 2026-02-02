@@ -1,5 +1,5 @@
 ---
-title: About me 
+title: Explorations
 layout: landing
 description: 'Brain-as-world thinking And Sky life reflections'
 image: assets/images/2024_ver2.jpg
