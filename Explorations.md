@@ -47,7 +47,7 @@ nav-menu: true
 		<h3>Methods</h3>
 		<p>Python-based electrophysiology analysis of spike trains. Examined correlations between neuronal firing patterns in CA2 and CA3 following social experiences to understand how cell assemblies reorganize.</p>
 			<span class="image main">
-			<img src="assets/images/ca2cA3.png" alt="cell assembly analysis" width="500" />
+			<img src="assets/images/ca2cA3.png" alt="cell assembly analysis" />
 			<p style="text-align: center; font-size: 0.9em; margin-top: 0.5em;">
 				<p>A) Three examples of assemblies that exceeded the Marcenko-Pastur threshold from a representative session. Assembly members were identified as neurons with ICA weights exceeding an Otsu threshold, and assemblies with both CA2 and CA3 or CA1 and CA2 neuron members were named joint cell assemblies. B) Assembly Similarity Index matrix. Joint assemblies from social interaction were compared to non-social joint cell assemblies. This was calculated as the dot product of different assembly pairs, and a similarity index above the 95 percentile of a surrogate distribution was considered significant. C) Venn diagrams illustrate the proportions of assemblies detected in social (yellow) and object interaction conditions (green). 
 			</p>
