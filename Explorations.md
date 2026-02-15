@@ -27,11 +27,11 @@ nav-menu: true
 		<h3>Methods</h3>
 		<p>Used exploreDTI to isolate cortico-ponto-cerebellar (cortex → cerebellum) and cerebello-thalamo-cortical (cerebellum → cortex) pathways. Calculated FA (fractional anisotropy), MD (mean diffusivity), RD (radial diffusivity), and AD (axial diffusivity) along tract profiles. Set up comparison pipeline between MCI and AD patient groups.</p>
 		<h3>What I Learned</h3>
-<p>Working with diffusion imaging is messy. You need anatomical knowledge just to define the right ROIs, and tract extraction is all about tweaking parameters until things look right—which means artifacts can sneak in easily.</p>
+<p>Working with diffusion imaging is messy. You need anatomical knowledge just to define the right ROIs, and tract extraction is all about tweaking parameters until things look right, which means artifacts can sneak in easily.</p>
 
-<p>But the bigger question hit me while working with the along-tract analysis: how do we even decide where to split a tract? By anatomical regions? By where synapses are? And what about polysynaptic pathways—if signals jump between multiple neurons along the way, are we even capturing the real communication path? The tract looks continuous in the image, but the actual signal might be doing something completely different.</p>
+<p>But the bigger question hit me while working with the along-tract analysis: how do we even decide where to split a tract? By anatomical regions? By where synapses are? And what about polysynaptic pathways? If signals jump between multiple neurons along the way, are we even capturing the real communication path? The tract looks continuous in the image, but the actual signal might be doing something completely different.</p>
 
-<p>It made me realize these metrics show us structure—where the wires are—but not how information actually flows through them. That gap between what we measure and what's actually happening keeps bothering me.</p>
+<p>It made me realize these metrics show us structure—where the wires are, but not how information actually flows through them. That gap between what we measure and what's actually happening keeps bothering me.</p>
 		<p><strong>Tools:</strong> exploreDTI, MATLAB, diffusion MRI analysis, tractography</p>
 	</div>
 </section>
