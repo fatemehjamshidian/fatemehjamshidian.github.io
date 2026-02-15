@@ -63,4 +63,20 @@ img {
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+			&.post {
+			display: block;
+			margin: (_size(element-margin) * 1.25) 0;
+			width: 100%;
+
+			img {
+				width: 40%;
+				max-width: 400px;
+				height: auto;
+			}
+
+			@include breakpoint(small) {
+				margin: (_size(element-margin) * 0.75) 0;
+			}
+		}
 	}
+
