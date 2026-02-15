@@ -19,7 +19,7 @@ nav-menu: true
 		<h3>Overview</h3>
 		<p>The cerebellum's role in cognition is increasingly recognized, but how do its cortical connections degrade in Alzheimer's? I worked on extracting and analyzing cerebellar white matter tracts to quantify structural changes.</p>
 		<span class="image main">
-			<img src="assets/images/cerebellar-tracts.png" alt="Cerebellar pathway tractography" style="width: 30%; />
+			<img src="assets/images/cerebellar-tracts.png" alt="Cerebellar pathway tractography" />
 			<p style="text-align: center; font-size: 0.9em; margin-top: 0.5em;"> 
 				<strong>Figure 1.</strong> A: CPC-L (Cortico-Ponto-Cerebellar Left), B: CPC-R (Cortico-Ponto-Cerebellar Right), C: CTC-L (Cerebello-Thalamo-Cortical Left), D: CTC-R (Cerebello-Thalamo-Cortical Right)
 			</p>
