@@ -38,3 +38,27 @@ nav-menu: true
 
 
 
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>The Influence of Salient Experiences on Hippocampal Activity Correlations</h2>
+		</header>
+		<p><strong>Duration:</strong> November 2023 - September 2024<br>
+		<strong>Supervisor:</strong> Dr. Tristan Manfred Stöber, Ruhr University, Bochum, Germany</p>
+		<h3>Overview</h3>
+		<p>How do social experiences reshape the way neurons talk to each other? I analyzed cell assembly dynamics in the hippocampus—specifically CA2-CA3 regions—to see how spike patterns and correlations change after salient social interactions.</p>
+		<h3>Methods</h3>
+		<p>Python-based electrophysiology analysis of spike trains. Examined correlations between neuronal firing patterns in CA2 and CA3 following social experiences to understand how cell assemblies reorganize.</p>
+			<span class="image main">
+			<img src="assets/images/ca2ca3.png" alt="cell assembly analysis" />
+			<p style="text-align: center; font-size: 0.9em; margin-top: 0.5em;">
+				A) Three examples of assemblies that exceeded the Marcenko-Pastur threshold from a representative session. Assembly members were identified as neurons with ICA weights exceeding an Otsu threshold, and assemblies with both CA2 and CA3 or CA1 and CA2 neuron members were named joint cell assemblies. B) Assembly Similarity Index matrix. Joint assemblies from social interaction were compared to non-social joint cell assemblies. This was calculated as the dot product of different assembly pairs, and a similarity index above the 95 percentile of a surrogate distribution was considered significant. C) Venn diagrams illustrate the proportions of assemblies detected in social (yellow) and object interaction conditions (green). 
+			</p>
+		<h3>What I Learned</h3>
+		<p>This was my first time working with single-neuron recordings. I'd always worked with macroscale data—MRI, fMRI, diffusion imaging—where you see big blobs of brain activity. But spikes? That's magic. You can actually watch individual neurons firing, see the exact timing of their conversations.</p>
+		<p>But honestly, I learned more than just technical skills. This was my first international collaboration, working remotely with Tristan's lab in Germany. Tristan is the kind of person who genuinely supports his students—no matter who you are or where you're from. His way of looking at the world, his approach to science and people, taught me a lot.</p>
+		<p>Working on an international team showed me something important: you learn to express your ideas clearly while staying independent in your thinking. You realize you're not the center of the world. When you work with people from different cultures, you see how many ways there are to approach the same problem. You're just one part of a bigger team, and that team only works when everyone takes responsibility for their piece and brings their own perspective. That's how you actually create something valuable.</p>
+		<p><strong>Tools:</strong> Python, electrophysiology analysis, spike train analysis</p>
+	</div>
+</section>
+
