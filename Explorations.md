@@ -1,7 +1,7 @@
 ---
 title: Research and Projects
 layout: page
-description: 'Brain-as-world thinking And Sky life reflections'
+description: 'Brain-as-world thinking'
 image: assets/images/2024_ver2.jpg
 nav-menu: true
 ---
