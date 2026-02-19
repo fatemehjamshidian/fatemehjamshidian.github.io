@@ -2,7 +2,7 @@
 title: Research and Projects
 layout: page
 description: 'Brain-as-world thinking'
-image: assets/images/2024_ver2.jpg
+image: assets/images/cerebellar-tracts.png
 nav-menu: true
 ---
 <!-- Main -->
